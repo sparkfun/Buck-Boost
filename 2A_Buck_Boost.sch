@@ -18065,7 +18065,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="190.5" y="180.34" size="2.54" layer="94" font="vector">Voltage Selector</text>
 <text x="83.82" y="162.56" size="2.54" layer="97" font="vector">VIN: 2-16V</text>
 <text x="157.48" y="162.56" size="2.54" layer="97" font="vector">VOUT: 2.5-9V</text>
-<text x="190.5" y="93.98" size="2.54" layer="97" font="vector">R_SET (kΩ) = 68.1 * (VOUT/0.8 - 1)</text>
+<text x="189.992" y="97.536" size="2.54" layer="97" font="vector">R_SET(kΩ)= 68.1 * (VOUT/0.8 - 1)</text>
 <wire x1="187.96" y1="88.9" x2="187.96" y2="35.56" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="71.12" y1="88.9" x2="187.96" y2="88.9" width="0.1524" layer="97" style="shortdash"/>
 <text x="73.66" y="83.82" size="2.54" layer="94" font="vector">Power LED</text>
