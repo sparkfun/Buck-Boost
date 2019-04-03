@@ -5145,7 +5145,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <element name="U1" library="SparkFun-IC-Power" package="VQFN-15-HR(3X2.5)" value="TPS63070" x="15.875" y="15.875" smashed="yes" rot="R90">
 <attribute name="NAME" x="13.875" y="12.875" size="1.27" layer="25" rot="R90"/>
 <attribute name="PROD_ID" value="IC-14258" x="15.875" y="15.875" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="19.125" y="12.625" size="1.27" layer="27" rot="R90"/>
+<attribute name="VALUE" value="TPS63070" x="19.125" y="12.625" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C1" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="10.287" y="18.034" smashed="yes" rot="R90">
 <attribute name="NAME" x="9.525" y="18.034" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -5167,10 +5167,10 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="PROD_ID" value="RES-14261" x="17.653" y="10.16" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="16.891" y="10.16" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
 </element>
-<element name="R4" library="SparkFun-Resistors" package="0603" value="357k" x="16.129" y="10.16" smashed="yes" rot="R270">
+<element name="R4" library="SparkFun-Resistors" package="0603" value="365k" x="16.129" y="10.16" smashed="yes" rot="R270">
 <attribute name="NAME" x="16.891" y="10.16" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-14262" x="16.129" y="10.16" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="VALUE" x="15.367" y="10.16" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+<attribute name="VALUE" value="365k" x="15.367" y="10.16" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
 </element>
 <element name="R5" library="SparkFun-Resistors" package="AXIAL-0.3" value="CUSTOM" x="9.525" y="8.382" smashed="yes" rot="R270">
 <attribute name="NAME" x="10.287" y="8.382" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
